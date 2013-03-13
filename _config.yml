@@ -1,23 +1,23 @@
 auto:    true
 
 brigade:
-    name: Code for Seattle
-    city:   "Seattle, WA"
+    name: Code for Summit County
+    city:   "Summit County, Ohio"
     meetup-link: "http://www.meetup.com/Code-for-Seattle/"
-    google-group: "https://groups.google.com/forum/#!forum/codeforseattle"
-    github: "https://github.com/codeforseattle"
-    idea-list: "http://seattlewiki.net/Code_for_Seattle_ideas"
+    google-group: "https://groups.google.com/d/forum/code-for-summit-county"
+    github: "https://github.com/codeforsummitcounty"
+    idea-list: "http://www.summitwiki.org/Code_for_Summit_County_ideas"
 
 content:
-    title: Code for Seattle
-    meetup-invite: "http://www.meetup.com/Code-for-Seattle/"
-    contact: "info@seattlewiki.net"
+    title: Code for Summit County
+    meetup-invite: "http://www.meetup.com/cfabrigade/Akron-OH/"
+    contact: "persa@persazula.com"
     banner: ./images/banner.jpg
     projects:
-      - name: SeattleWiki.net
-        content: "<a href='http://seattlewiki.net'>SeattleWiki.net</a>"
-    footer: "Thanks to Virginia Beach CfA for supplying this site's template, the Noun Project and brockamer@flikr for images,</br> and Jan Jorgensen for converting the template to Jekyll." 
+      - name: SummitWiki.org
+        content: "<a href='http://summitwiki.org'>SummitWiki.org</a>"
+    footer: "Thanks to Virginia Beach CfA and Seattle CfA for site templates" 
 
 google-analytics:
     use: true
-    code: UA-38362883-1
+    code: UA-39250227-1
