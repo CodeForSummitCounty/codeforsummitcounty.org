@@ -3,14 +3,14 @@ auto:    true
 brigade:
     name: Code for Summit County
     city:   "Summit County, Ohio"
-    meetup-link: "http://www.meetup.com/cfabrigade/Akron-OH/"
+    meetup-link: "http://www.meetup.com/Code-for-Summit-County/"
     google-group: "https://groups.google.com/d/forum/code-for-summit-county"
     github: "https://github.com/codeforsummitcounty"
     idea-list: "http://www.summitwiki.org/Code_for_Summit_County_ideas"
 
 content:
     title: Code for Summit County
-    meetup-invite: "http://www.meetup.com/cfabrigade/Akron-OH/"
+    meetup-invite: "http://www.meetup.com/Code-for-Summit-County/"
     contact: "persa@codeforsummitcounty.org"
     banner: ./images/banner.jpg
     projects:
