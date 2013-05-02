@@ -17,7 +17,7 @@ content:
       - name: SummitWiki.org
         content: "<a href='http://summitwiki.org'>SummitWiki.org</a>"
       - name: HackNEO.org (National Day of Civic Hacking Event)
-        content: "<a href='http://hackneo.org'>HackNEO June 1st and 2nd</a>
+        content: "<a href='http://hackneo.org'>HackNEO June 1st and 2nd</a>"
     footer: "Thanks to Virginia Beach CfA and Seattle CfA for site templates" 
 
 google-analytics:
