@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="article">
+<div class="container">
 	<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 	<p class="posted">
 		<a href="{{ page.url }}">
@@ -12,8 +12,8 @@ layout: default
 		{{ content }}
 	</div>
 	<ul class="meta">
-		<li>Posted by <a href="/author/{{ page.author | downcase }}">{{ page.author }}</a></li>
-		<li>Category: <a href="/{{ page.categories | downcase }}">{{ page.categories }}</a></li>
-		<li><a href="{{ page.url }}#disqus_thread">Comments</a></li>
+		<li>Posted by <a href="{{ page.authoruri | downcase }}">{{ page.author }}</a></li>
+		<!-- <li>Category: <a href="/{{ page.categories | downcase }}">{{ page.categories }}</a></li> -->
+		<!-- <li><a href="{{ page.url }}#disqus_thread">Comments</a></li> -->
 	</ul>
 </div>

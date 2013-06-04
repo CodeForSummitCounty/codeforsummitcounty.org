@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ot",
+				"otr-block"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"vie",
+				"view-on-the-road-locations"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"side",
+				"sidebar_first"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"option",
+				"options-list"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"sto",
+				"store_link"
+			],
+			[
+				"short",
+				"short_desc"
+			],
+			[
+				"field_instrument",
+				"field_instrument_link"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/php_oop_demo/index.php",
+		"/Applications/MAMP/htdocs/php_oop_demo/class_lib.php",
+		"/Users/pzula/Sites/codeforsummitcounty/codeforsummitcounty.org/_includes/footer.html",
+		"/Users/pzula/Sites/codeforsummitcounty/codeforsummitcounty.org/license.txt",
+		"/Users/pzula/.bash_profile",
+		"/Users/pzula/.profile",
+		"/Users/pzula/.bashrc",
+		"/Users/pzula/.rvm/log/ruby-1.9.3-p392/make.log",
+		"/Users/pzula/.rvm/log/ruby-2.0.0-p0/gem.install.log",
+		"/Users/pzula/Sites/psrmc/app/robots.txt",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--contact.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--front-page-rotator-image.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--node--9.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--instruments.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--instrument.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/block--homepage-triptych-right.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--front.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/update.php",
+		"/Users/pzula/Sites/psrmc/app/README.md",
+		"/Users/pzula/Sites/psrmc/app/install.php",
+		"/Users/pzula/Sites/psrmc/app/index.php",
+		"/Users/pzula/Sites/psrmc/app/cron.php",
+		"/Users/pzula/Sites/psrmc/app/authorize.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/node--instrument.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/psrmc.info",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/template.php",
+		"/Users/pzula/Documents/Design/Royalton_Music_Center/2013/psrmc_website/html/index.html",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/assets/css/styles.css",
+		"/Users/pzula/Sites/psrmc/app/xmlrpc.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/block--homepage-triptych-left.php",
+		"/Users/pzula/Desktop/test.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/assets/js/slides.js",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/assets/js/main.js",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/block.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/field-collection-item.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/field--field-instrument-brand.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/node.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/field--field-instrument-options-list.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/field--field_instrument_option_gr_name.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/example-page.tpl.php",
+		"/Users/pzula/Documents/Design/Royalton_Music_Center/2013/psrmc_website/html/css/styles.css",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/assets/js/jquery.cycle.all.js",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--instrument(2).tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--history.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/page--historyt.tpl.php",
+		"/Users/pzula/Sites/click_that_hood/.git/config",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/template.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/templates/html.tpl.php",
+		"/Users/pzula/Sites/psrmc/app/sites/all/themes/psrmc/html.tpl.php",
+		"/Users/pzula/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/pzula/Sites/fourelements/wp-config.php",
+		"/Users/pzula/.ssh/config",
+		"/Users/pzula/Sites/psrmc/app/.git/config",
+		"/Users/pzula/Documents/Code for America Interested Folks",
+		"/Users/pzula/Sites/psrmc/config/deploy.rb",
+		"/Applications/MAMP/htdocs/psrmc/sites/default/default.settings.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/pzula/Sites/psrmc/app/modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Yamaha",
+			"Professional Suite by RMC - ",
+			"h1",
+			"wrapper",
+			"img",
+			"high",
+			"<variable_name>",
+			"$sidebar_first",
+			"<variable_name>",
+			"h2",
+			"h3",
+			"h2",
+			"$path",
+			"$short_desc = render($content['field_instrument_short_desc']);",
+			"table",
+			"tables",
+			"wysi",
+			"content",
+			"brownBar",
+			"brownbar",
+			"home",
+			"@",
+			"img",
+			"template.php",
+			"main men",
+			"localhost",
+			"127",
+			"local",
+			"10px",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/pzula/Library/Application Support/Sublime Text 2/Packages/User/hackNEO-mamp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true
+}

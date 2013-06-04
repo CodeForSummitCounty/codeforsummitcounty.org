@@ -1,0 +1,11 @@
+      <div class="featurette">
+        <img class="featurette-image pull-left" src="images/noun_project_14215_blog.png">
+        <h2 class="featurette-heading">Blog Posts. <span class="muted">Read about some of our recaps.</span></h2>
+        <p class="lead">
+          <ul class="lead">
+            {% for item in site.content.blog %}
+            <li>{{ item.content }}</li>
+            {% endfor %}
+          </ul>
+        </p>
+      </div>

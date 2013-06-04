@@ -4,7 +4,7 @@ brigade:
     name: Code for Summit County
     city:   "Summit County, Ohio"
     meetup-link: "http://www.meetup.com/Code-for-Summit-County/"
-    google-group: "https://groups.google.com/d/forum/code-for-summit-county"
+    google-group: "https://plus.google.com/communities/101762556244571355785?hl=en"
     github: "https://github.com/codeforsummitcounty"
     idea-list: "https://cfsc.hackpad.com/uE84hfRApzx"
 
@@ -18,8 +18,18 @@ content:
         content: "<a href='http://summitwiki.org'>SummitWiki.org</a>"
       - name: HackNEO.org (National Day of Civic Hacking Event)
         content: "<a href='http://hackneo.org'>HackNEO June 1st and 2nd</a>"
+    blog:
+      - name: "HackNEO, a Civic Hacking Success Story"
+        content: "<a href='/blog/2013/06/03/hackneo-success.html'>HackNEO, a Civic Hacking Success Story</a>"
     footer: "Thanks to Virginia Beach CfA and Seattle CfA for site templates" 
+
 
 google-analytics:
     use: true
     code: UA-39250227-1
+
+author :
+  name : Persa Zula
+  email : persa@codeforsummitcounty.org
+  github : pzula
+  twitter : pzula
