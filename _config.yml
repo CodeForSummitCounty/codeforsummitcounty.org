@@ -12,7 +12,7 @@ content:
     title: Code for Summit County
     meetup-invite: "http://www.meetup.com/Code-for-Summit-County/"
     contact: "persa@codeforsummitcounty.org"
-    banner: ./images/banner.jpg
+    banner: /images/banner.jpg
     projects:
       - name: SummitWiki.org
         content: "<a href='http://summitwiki.org'>SummitWiki.org</a>"
