@@ -14,7 +14,7 @@ tags: [ndoch, hackforchange, hackneo]
 
 **[HackNEO](http://hackNEO.org)** was a two-day regional event held at the [Summit Artspace](http://www.akronareaarts.org/summit-artspace/) in Downtown Akron on June 1st and 2nd. The hack-a-thon was Northeast Ohio’s iteration of the National Day of Civic Hacking, which included some 95 events and an estimated 10,000 participants. NDoCH events were sponsored by organizations ranging from the White House to NASA to Intel and IBM.
 
-HackNEO was produced by [Code for Summit County](http://codeforsummitcounty.org), the new volunteer civic technology “Brigade” in Greater Akron. HackNEO was Code for Summit County’s first event, after being founded in March of 2013 by local software developer [Persa Zula](http://persazula.com). The event was sponsored by local businesses like [TinyCircuits](http://tiny-circuits.com/) and [Fathom](http://fathomdelivers.com), as well as non-profits like the Knight Foundation and SYN/HAK.
+HackNEO was produced by [Code for Summit County](http://codeforsummitcounty.org), the new volunteer civic technology “Brigade” in Greater Akron. HackNEO was Code for Summit County’s first event, after being founded in March of 2013 by local software developer [Persa Zula](http://persazula.com). The event was sponsored by local businesses like [TinyCircuits](http://tiny-circuits.com/) and [Fathom](http://fathomdelivers.com), as well as non-profits like the [Knight Foundation](http://www.knightfoundation.org/communities/akron/) and [SYN/HAK](http://synhak.org).
 
 Over the weekend, some 30 volunteers--which included software developers, designers, public officials, park staff, park volunteers, and regular citizens--built two prototype applications. Each application has been submitted to the White House and major sponsors for consideration of national recognition. Active development will continue through June 30th, when consideration closes. Development will continue after June 30th as well, in coordination with stakeholders. 
 
@@ -67,3 +67,8 @@ ParkScore allows the user to see the total population, the demographic breakdown
 ##Get Involved
 
 Although HackNEO is over, we have a growing number of civic hackers involved with [Code for Summit County](http://codeforsummitcounty.org). We meet at least twice a month for hack nights to work on our projects, including these projects from the hackathon. As our member base grows, our projects diversify, and our ability to help advance the adoption of open, machine-readable data, also grows. Join us at one of our many [meetups](http://www.meetup.com/Code-for-Summit-County/) to lend a hand!
+
+### Other Links
+[Photos from the Event](http://www.flickr.com/photos/pzula/tags/hackneo/)
+[Alan Williams talk, The Revolution Will Be Prototyped](https://vimeo.com/67536109)
+[Tweets from the Event](http://twitter.com/#hackNEO)
