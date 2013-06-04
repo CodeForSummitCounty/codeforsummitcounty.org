@@ -69,6 +69,6 @@ ParkScore allows the user to see the total population, the demographic breakdown
 Although HackNEO is over, we have a growing number of civic hackers involved with [Code for Summit County](http://codeforsummitcounty.org). We meet at least twice a month for hack nights to work on our projects, including these projects from the hackathon. As our member base grows, our projects diversify, and our ability to help advance the adoption of open, machine-readable data, also grows. Join us at one of our many [meetups](http://www.meetup.com/Code-for-Summit-County/) to lend a hand!
 
 ### Other Links
-[Photos from the Event](http://www.flickr.com/photos/pzula/tags/hackneo/)
-[Alan Williams talk, The Revolution Will Be Prototyped](https://vimeo.com/67536109)
+[Photos from the Event](http://www.flickr.com/photos/pzula/tags/hackneo/) | 
+[Alan Williams talk, The Revolution Will Be Prototyped](https://vimeo.com/67536109) | 
 [Tweets from the Event](http://twitter.com/#hackNEO)
